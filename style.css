@@ -1,0 +1,227 @@
+@font-face {
+    font-family: "Open Sans Light";
+    src: url("./OpenSans-Light.ttf");
+}
+@font-face {
+    font-family: "Seven Segment";
+    src: url("./Seven-Segment.ttf");
+}
+@font-face {
+    font-family: "LED Dot Matrix";
+    src: url("./LED Dot-Matrix.ttf");
+}
+img {
+    border: 5px solid #555;
+    width: auto;
+    height: auto;
+    object-fit: cover;
+}
+html {
+    background-color: black;
+    background-image: url("stars.jpg");
+    color: white;
+    font-family: "Open Sans Light";
+}
+a {
+    color: white;
+}
+#magnetometerytext {
+    font-family: "Open Sans Light";
+    font-weight: 200;
+    transform: translate(83%, 0%);
+    width: max-content;
+    height: max-content;
+}
+#magnetometery {
+    display: inline-block;
+    font-family: "LED Dot Matrix";
+    font-size: 80px;
+    padding: 60px;
+    color: red;
+    border: 10px double #e1ad01;
+    background-color: black;
+    /* background-image: url("stars.jpg"); */
+    border-radius: 6px;
+    margin-bottom: 30px;
+    width: fit-content;
+    height: fit-content;
+    text-align: center;
+    margin-left: 30px;
+
+}
+#magnetometerytext2 {
+    font-family: "Open Sans Light";
+    font-weight: 100;
+    margin-top: -35px;
+    transform: translate(77%, 0%);
+    width: max-content;
+    height: max-content;
+}
+h1 {
+    font-family: "Open Sans Light";
+    font-weight: 300;
+}
+a {
+    font-weight: 100;
+}
+
+
+#solwindimg {
+    margin-left: 200px;
+}
+
+#ace {
+    width: 1000px;
+    height: max-content;
+}
+#xraydata {
+    font-weight: 100;
+}
+#currentclass {
+    display: inline-block;
+    font-family: "LED Dot Matrix";
+    font-size: 80px;
+    padding: 60px;
+    color: red;
+    border: 10px double #e1ad01;
+    background-color: black;
+    /*background-image: url("stars.jpg");*/
+    border-radius: 6px;
+    margin-bottom: 30px;
+    width: fit-content;
+    height: fit-content;
+    text-align: center;
+    margin-left: 30px;
+}
+#currentclasstext {
+    font-family: "Open Sans Light";
+    font-weight: 200;
+    transform: translate(35%, 0%);
+    width: max-content;
+    height: max-content;
+}
+#eFlux {
+    display: inline-block;
+    font-family: "LED Dot Matrix";
+    font-size: 80px;
+    padding: 60px;
+    color: red;
+    border: 10px double #e1ad01;
+    background-color: black;
+    /*background-image: url("stars.jpg");*/
+    border-radius: 6px;
+    margin-bottom: 30px;
+    width: fit-content;
+    height: fit-content;
+    text-align: center;
+    margin-left: 30px;
+}
+#eFluxText {
+    font-family: "Open Sans Light";
+    font-weight: 200;
+    margin-bottom: -20px;
+    transform: translate(78%, 0%);
+    width: max-content;
+    height: max-content;
+}
+#pFlux {
+    display: inline-block;
+    font-family: "LED Dot Matrix";
+    font-size: 80px;
+    padding: 60px;
+    color: red;
+    border: 10px double #e1ad01;
+    background-color: black;
+    /* background-image: url("stars.jpg");*/
+    border-radius: 6px;
+    margin-bottom: 30px;
+    width: fit-content;
+    height: fit-content;
+    text-align: center;
+    margin-left: 30px;
+}
+#pFluxText {
+    font-family: "Open Sans Light";
+    font-weight: 200;
+    margin-bottom: -20px;
+    transform: translate(130%, 900%);
+    width: max-content;
+    height: max-content;
+}
+#pfuchart {
+    transform:  translate(0%, 16%);
+}
+h2 {
+    font-weight: 200;
+}
+#alerth3 {
+    font-weight: 300;
+}
+#magnetometerftext {
+    font-family: "Open Sans Light";
+    font-weight: 200;
+    transform: translate(83%, 0%);
+    width: max-content;
+    height: max-content;
+}
+#magnetometerf {
+    display: inline-block;
+    font-family: "LED Dot Matrix";
+    font-size: 80px;
+    padding: 60px;
+    color: red;
+    border: 10px double #e1ad01;
+    background-color: black;
+    /*background-image: url("stars.jpg");*/
+    border-radius: 6px;
+    margin-bottom: 30px;
+    width: fit-content;
+    height: fit-content;
+    text-align: center;
+    margin-left: 30px;
+
+}
+#magnetometerftext2 {
+    font-family: "Open Sans Light";
+    font-weight: 100;
+    margin-top: -35px;
+    transform: translate(75%, 0%);
+    width: max-content;
+    height: max-content;
+}
+#magnetometerhtext {
+    font-family: "Open Sans Light";
+    font-weight: 200;
+    transform: translate(83%, 0%);
+    width: max-content;
+    height: max-content;
+}
+#magnetometerh {
+    display: inline-block;
+    font-family: "LED Dot Matrix";
+    font-size: 80px;
+    padding: 60px;
+    color: red;
+    border: 10px double #e1ad01;
+    background-color: black;
+    /*background-image: url("stars.jpg");*/
+    border-radius: 6px;
+    margin-bottom: 30px;
+    width: fit-content;
+    height: fit-content;
+    text-align: center;
+    margin-left: 30px;
+
+}
+#magnetometerhtext2 {
+    font-family: "Open Sans Light";
+    font-weight: 100;
+    margin-top: -35px;
+    transform: translate(75%, 0%);
+    width: max-content;
+    height: max-content;
+}
+#sun1 {
+    width:  512px;
+    height: 512px;
+}
