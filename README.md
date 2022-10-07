@@ -1,2 +1,2 @@
 # Sunray Space Weather Centre
-A website file that pulls in all kinds of space weather data
+A website that pulls in all kinds of space weather data
